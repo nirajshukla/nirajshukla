@@ -1,4 +1,4 @@
-<h1 align="center"> ** Changes in progress. Data may be incorrect. ** </h1>
+<!--<h1 align="center"> ** Changes in progress. Data may be incorrect. ** </h1>-->
 
 <h1 align="center">Hi, I'm Niraj Shukla 👋</h1>
 
